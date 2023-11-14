@@ -1,1 +1,1 @@
-# Attendence Mannagment System (My first Project)
+# Attendence Management System (My first Project)
